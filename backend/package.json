@@ -13,6 +13,7 @@
   "type": "module",
   "description": "",
   "dependencies": {
+    "@rollup/rollup-linux-x64-gnu": "^3.29.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "axios": "^1.8.4",
     "bcryptjs": "^3.0.2",
